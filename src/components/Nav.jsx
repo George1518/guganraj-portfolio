@@ -9,7 +9,7 @@ function Nav() {
     <div className="container mx-auto flex justify-between items-center">
       <div className="text-2xl font-bold">Guganraj</div>
 
-      <div className="flex gap-10 md:hidden">
+      <div className="hidden md:flex gap-8">
         <a href="#home" className="hover:text-gray-400">
           Home
         </a>
