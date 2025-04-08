@@ -4,7 +4,7 @@ function Nav() {
   return (
 <>
   <nav
-    className="fixed top-0 left-0 z-10 w-full bg-black text-white px-8 sm:px-4 md:px-16 lg:px-24 py-3"
+    className=" w-full bg-black text-white px-8 sm:px-4 md:px-16 fixed top-0 left-0 z-10 lg:px-24 py-3"
   >
     <div className="container mx-auto flex justify-between items-center">
       <div className="text-2xl font-bold">Guganraj</div>
