@@ -24,9 +24,10 @@ function Edu() {
       <div className="text-center w-full md:w-96 h-auto p-6 border border-gray-500 rounded-lg hover:bg-gray-900">
         <h3 className="text-2xl text-white font-semibold mb-4">Certification</h3>
         <p className="text-lg text-cyan-400 font-semibold mb-4">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis non
-          impedit blanditiis, ullam, minus molestiae earum id saepe quam aspernatur
-          vitae? Eum.
+          I have completed JAVA course on PRASARTECH PROJECTS & SOLUTIONS in the period of JAN 2025 - MAR 2025.
+          I have completed REACT Bootcamp course by LETS UPGRADE for 3 days from 3 FEB to 5 FEB.
+          I have completed HTML & CSS Bootcamp course by LETS UPGRADE for 3 days from 6 MAR to 8 MAR.
+
         </p>
       </div>
     </div>
