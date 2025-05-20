@@ -40,7 +40,7 @@ function Hero() {
             <a href="/resume.pdf" download="resume.pdf"
                 className="bg-gradient-to-r from-red-600 to-yellow-400 text-white px-4 py-2 rounded-full transform transition-transform duration-300 hover:scale-105"
             >
-                Resume
+                My Resume 
             </a>
         </div>
     </div>
