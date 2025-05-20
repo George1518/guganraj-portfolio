@@ -37,11 +37,11 @@ function Hero() {
                 <a href="#contacts">Contact me</a>
             </div>
 
-            <button
+            <a href="/guganraj-portfolio/resume.pdf" download target="_blank" rel="noopener noreferrer"
                 className="bg-gradient-to-r from-red-600 to-yellow-400 text-white px-4 py-2 rounded-full transform transition-transform duration-300 hover:scale-105"
             >
-                Resume
-            </button>
+                My Resume 
+            </a>
         </div>
     </div>
 </>
