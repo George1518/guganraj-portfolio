@@ -11,7 +11,7 @@ function projects() {
         <div className="flex flex-col space-y-8 md:flex-row items-center justify-center md:space-x-12 md:space-y-0">
           {/* Project 1 */}
           <div>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <img
                 src={dummy}
                 alt="Project 1"
@@ -23,7 +23,7 @@ function projects() {
   
           {/* Project 2 */}
           <div>
-            <a href="http://" target="_blank" rel="noopener noreferrer">
+            <a href="#" target="_blank" rel="noopener noreferrer">
               <img
                 src={dummy}
                 alt="Project 2"
